@@ -1,0 +1,68 @@
+{
+  "math": {
+    "grade1-2": {
+      "conceptual_confusion": {
+        "now": "Use fingers, sticks, or classroom objects to demonstrate the concept slowly and repeatedly.",
+        "why": "Young learners understand best through hands-on manipulation of real objects.",
+        "next": "Reinforce the idea using simple games and counting activities."
+      },
+      "number_recognition": {
+        "now": "Display number cards and ask students to match numbers with quantities using objects.",
+        "why": "Visual-number association strengthens early numeracy skills.",
+        "next": "Practice number recognition through songs or flashcard games."
+      }
+    },
+    "grade3-5": {
+      "conceptual_confusion": {
+        "now": "Pause the activity and group students by understanding. Use physical objects like stones or chalk pieces to demonstrate the concept step by step.",
+        "why": "Concrete materials help students visualize abstract math concepts and reduce cognitive overload.",
+        "next": "Plan a short revision activity using everyday objects before introducing new concepts."
+      },
+      "calculation_errors": {
+        "now": "Ask students to explain their steps aloud while solving a problem on the board.",
+        "why": "Verbalizing reasoning helps identify where misunderstandings occur.",
+        "next": "Introduce peer-checking for similar problems."
+      }
+    },
+    "grade6-8": {
+      "abstract_reasoning": {
+        "now": "Use diagrams or simple real-life examples to bridge abstract concepts.",
+        "why": "Linking math to real situations improves comprehension at higher levels.",
+        "next": "Assign short application-based exercises."
+      },
+      "formula_confusion": {
+        "now": "Break the formula into parts and explain what each part represents.",
+        "why": "Understanding meaning prevents rote memorization errors.",
+        "next": "Give practice problems that focus on one part of the formula at a time."
+      }
+    }
+  },
+  "language": {
+    "grade1-2": {
+      "reading_difficulty": {
+        "now": "Read aloud together and point to words as you read.",
+        "why": "Shared reading builds word recognition and confidence.",
+        "next": "Encourage students to identify familiar words in simple sentences."
+      }
+    },
+    "grade3-5": {
+      "student_disengagement": {
+        "now": "Switch to a quick oral storytelling or question-based interaction involving all students.",
+        "why": "Oral participation re-engages attention and builds confidence without reading pressure.",
+        "next": "Introduce pair-reading or role-play in the next lesson to sustain engagement."
+      },
+      "vocabulary_gap": {
+        "now": "Introduce new words using pictures and simple examples.",
+        "why": "Contextual learning improves retention of vocabulary.",
+        "next": "Reinforce words through short writing or speaking activities."
+      }
+    },
+    "grade6-8": {
+      "grammar_confusion": {
+        "now": "Provide sentence examples and ask students to identify the grammatical pattern.",
+        "why": "Pattern recognition helps internalize grammar rules.",
+        "next": "Assign short correction exercises."
+      }
+    }
+  }
+}
