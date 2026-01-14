@@ -1,6 +1,8 @@
 # GuruPulse  
 ### Offline-First AI Classroom Copilot for Just-In-Time Teacher Support
 
+<img width="1536" height="1024" alt="ChatGPT Image Jan 12, 2026, 07_38_08 PM" src="https://github.com/user-attachments/assets/76d09584-45ad-4fc2-8d3e-93801d4ee0bf" />
+
 ---
 
 ## Problem Statement
